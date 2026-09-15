@@ -47,14 +47,15 @@ At just $0.99 — far less than half a cup of coffee — this app is a truly cap
 #### 🌐 Free Online Web Version
 Use the image converter instantly in your browser — no installation, no registration required.
 
-[![Open Web Version]([https://img.shields.io/badge/Open_Web_Version-2563eb?style=for-the-badge&logo=web&logoColor=white](https://img.shields.io/badge/Open_Web_Version-2563eb?style=for-the-badge&logo=web&logoColor=white))]([https://image-convert-tool.pages.dev/](https://image-convert-tool.pages.dev/))
+ [![Open Web Version](https://img.shields.io/badge/Open_Web_Version-2563eb?style=for-the-badge&logo=web&logoColor=white)](https://image-convert-tool.pages.dev/)
 
-**Link:** [https://image-convert-tool.pages.dev/](https://image-convert-tool.pages.dev/)
+**Link:** https://image-convert-tool.pages.dev/
+
 
 #### 🖥️ Microsoft Store Desktop App
 Get the full-featured desktop version from Microsoft Store for a native Windows experience.
 
-[![Get it from Microsoft]([https://get.microsoft.com/images/en-us%20dark.svg](https://get.microsoft.com/images/en-us%20dark.svg))]([https://apps.microsoft.com/detail/9ns7x3sdtbw0](https://apps.microsoft.com/detail/9ns7x3sdtbw0))
+ [![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9ns7x3sdtbw0)
 
 ### 🔒 Privacy First
 This tool runs entirely client-side in your web browser. **No images, files or personal data are sent to any external server.** Everything is processed locally on your device, so your photos and documents remain private and secure.
@@ -68,7 +69,7 @@ This tool runs entirely client-side in your web browser. **No images, files or p
 - Process sensitive images offline without uploading them to the cloud
 
 ### Powered by
-Easy Soft Creator
+ https://www.easysoftlab.com/
 
 ---
 
@@ -113,14 +114,15 @@ Für nur 0,99 $ – weit weniger als ein halber Kaffee – ist diese App ein lei
 #### 🌐 Kostenlose Online-Web-Version
 Nutzen Sie den Bildkonverter sofort in Ihrem Browser – keine Installation, keine Registrierung erforderlich.
 
-[![Web-Version öffnen]([https://img.shields.io/badge/Web_Version_](https://img.shields.io/badge/Web_Version_)öffnen-2563eb?style=for-the-badge&logo=web&logoColor=white)]([https://image-convert-tool.pages.dev/](https://image-convert-tool.pages.dev/))
+ [![Open Web Version](https://img.shields.io/badge/Open_Web_Version-2563eb?style=for-the-badge&logo=web&logoColor=white)](https://image-convert-tool.pages.dev/)
 
-**Link:** [https://image-convert-tool.pages.dev/](https://image-convert-tool.pages.dev/)
+**Link:** https://image-convert-tool.pages.dev/
+
 
 #### 🖥️ Microsoft Store Desktop-App
 Holen Sie sich die voll funktionsfähige Desktop-Version aus dem Microsoft Store für eine native Windows-Oberfläche.
 
- [![Get it from Microsoft]([https://get.microsoft.com/images/en-us%20dark.svg](https://get.microsoft.com/images/en-us%20dark.svg))]([https://apps.microsoft.com/detail/9ns7x3sdtbw0](https://apps.microsoft.com/detail/9ns7x3sdtbw0))
+ [![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9ns7x3sdtbw0)
 
 ### 🔒 Datenschutz an erster Stelle
 Dieses Tool läuft vollständig clientseitig in Ihrem Webbrowser. **Keine Bilder, Dateien oder personenbezogenen Daten werden an externe Server gesendet.** Alles wird lokal auf Ihrem Gerät verarbeitet, sodass Ihre Fotos und Dokumente privat und sicher bleiben.
@@ -134,4 +136,4 @@ Dieses Tool läuft vollständig clientseitig in Ihrem Webbrowser. **Keine Bilder
 - Sensible Bilder offline verarbeiten, ohne sie in die Cloud hochzuladen
 
 ### Entwickelt von
-Easy Soft Creator
+ (https://www.easysoftlab.com/)
